@@ -1,4 +1,5 @@
 # coding:utf-8
+#天天
 """
 A TestRunner for use with the Python unit testing framework. It
 generates a HTML report to show the result at a glance.
